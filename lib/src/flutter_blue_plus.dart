@@ -7,7 +7,7 @@ part of flutter_blue_plus;
 class FlutterBluePlus {
   ///////////////////
   //  Internal
-  //
+  ////
 
   static bool _initialized = false;
 
